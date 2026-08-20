@@ -60,13 +60,13 @@ g++ main.cpp -o NetworkSimulator -Iinclude -Llib -lraylib -lopengl32 -lgdi32 -lw
 ---
 ## 📸 Screenshots
 
-![Screenshot 1](screenshots/WhatsApp%20Image%202026-08-20%20at%206.12.31%20PM.jpeg)
-![Screenshot 2](screenshots/WhatsApp%20Image%202026-08-20%20at%206.17.43%20PM.jpeg)
-![Screenshot 3](screenshots/WhatsApp%20Image%202026-08-20%20at%206.17.48%20PM.jpeg)
-![Screenshot 4](screenshots/WhatsApp%20Image%202026-08-20%20at%206.17.54%20PM.jpeg)
-![Screenshot 5](screenshots/WhatsApp%20Image%202026-08-20%20at%206.17.59%20PM.jpeg)
-![Screenshot 6](screenshots/WhatsApp%20Image%202026-08-20%20at%206.18.03%20PM.jpeg)
-![Screenshot 7](screenshots/WhatsApp%20Image%202026-08-20%20at%206.18.10%20PM.jpeg)
+![Screenshot 1](SCREENSHOTS/WhatsApp%20Image%202026-08-20%20at%206.12.31%20PM.jpeg)
+![Screenshot 2](SCREENSHOTS/WhatsApp%20Image%202026-08-20%20at%206.17.43%20PM.jpeg)
+![Screenshot 3](SCREENSHOTS/WhatsApp%20Image%202026-08-20%20at%206.17.48%20PM.jpeg)
+![Screenshot 4](SCREENSHOTS/WhatsApp%20Image%202026-08-20%20at%206.17.54%20PM.jpeg)
+![Screenshot 5](SCREENSHOTS/WhatsApp%20Image%202026-08-20%20at%206.17.59%20PM.jpeg)
+![Screenshot 6](SCREENSHOTS/WhatsApp%20Image%202026-08-20%20at%206.18.03%20PM.jpeg)
+![Screenshot 7](SCREENSHOTS/WhatsApp%20Image%202026-08-20%20at%206.18.10%20PM.jpeg)
 ---
 ## Developed By
 - MOAZZAM ALI
