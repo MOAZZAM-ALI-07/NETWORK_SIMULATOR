@@ -23,6 +23,7 @@ A visual, interactive **Network Topology Simulator** built in **C++** using the 
 - **Data Structures Used:** Vectors, Queues, Stacks, Sets, Priority Queue, Union-Find
 ---
 ## Project Structure
+\`\`\`
 NetworkSimulator/
 ├── main.cpp               # Main source file (all logic & rendering)
 ├── compile.bat            # Windows build script
@@ -35,15 +36,20 @@ NetworkSimulator/
 │   ├── libraylibdll.a     # Raylib DLL import library
 │   └── raylib.dll         # Raylib dynamic library
 └── NetworkSimulator.exe   # Compiled executable (Windows)
+\`\`\`
 ---
 ## 🚀 How to Run
 ### Option 1 — Run Directly
-Just double-click NetworkSimulator.exe (Windows only)
+Just double-click `NetworkSimulator.exe` (Windows only)
 ### Option 2 — Compile from Source
 Make sure you have **MinGW (g++)** installed, then run:
+\`\`\`bash
 compile.bat
+\`\`\`
 Or manually:
+\`\`\`bash
 g++ main.cpp -o NetworkSimulator -Iinclude -Llib -lraylib -lopengl32 -lgdi32 -lwinmm
+\`\`\`
 ---
 ## How to Use
 1. **Add Node** — Click "Add Node" button, then click anywhere on the canvas
